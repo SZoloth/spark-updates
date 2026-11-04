@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Spark</title>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Spark</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 04 Nov 2026 12:35:09 -0700</pubDate>
+            <sparkle:version>148</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SZoloth/spark-updates/releases/download/v148/Spark-148.zip" length="6112229" type="application/octet-stream" sparkle:edSignature="hlzzEfvqgi0oTOdl5Wh2m/aNdO+VPBSstCBD6ZL8L4cMqE9aMTe23EKHv0Syxe2JB5svgstwxKaT7466uJpPDQ=="/>
+        </item>
+    </channel>
 </rss>
