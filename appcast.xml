@@ -4,6 +4,14 @@
         <title>Spark</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 08 Nov 2026 19:27:12 -0800</pubDate>
+            <sparkle:version>165</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SZoloth/spark-updates/releases/download/v165/Spark-165.zip" length="7084463" type="application/octet-stream" sparkle:edSignature="GeJchcXr3YzrCrvOVr7/ZOg/B3nK/tVRk+E/aOfo/KTy1tTigUkK3XLgsRgV/FMaSfl4s3V0T3xxtKdgK7woAg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 08 Nov 2026 19:16:42 -0800</pubDate>
             <sparkle:version>164</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SZoloth/spark-updates/releases/download/v163/Spark-163.zip" length="7085899" type="application/octet-stream" sparkle:edSignature="xQVdBV3W44fjzWXexuD4y1Wur+yKm8WeC7Qloc3wSh3NR+PIc88zCCpOoRXgUIieMOGWfalKnfNjfiGNShqiAg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sun, 08 Nov 2026 18:43:09 -0800</pubDate>
-            <sparkle:version>162</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SZoloth/spark-updates/releases/download/v162/Spark-162.zip" length="7048235" type="application/octet-stream" sparkle:edSignature="wIfBOdmK+vFtO00T4aodqYMHZOnc+cCiMPhIbx1w8J9C2HJyFDlSRzJ6fswgGJ8IElRH/5oZcxg7vsqkVmFbCQ=="/>
         </item>
     </channel>
 </rss>
